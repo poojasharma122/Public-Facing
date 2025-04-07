@@ -13,7 +13,7 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Sansation';
+    font-family: var(--poppins);
 }
 
 :root {
@@ -59,7 +59,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: "Poppins", sans-serif;
+    font-family: var(--sansantion);
 }
 
 p {
